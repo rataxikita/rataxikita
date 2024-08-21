@@ -6,7 +6,7 @@
 
 <p align="left">Soy una estudiante apasionada por la programación, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades cada día. Me encanta resolver problemas y trabajar en proyectos que me desafíen.</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologías y Herramientas</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
