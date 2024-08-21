@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">Catalina Rosales</h1>
 
-<!--
-**rataxikita/rataxikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Estudiante de Analista Programador</p>
 
-Here are some ideas to get you started:
+<h2 align="left">Acerca de mí</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Soy una estudiante apasionada por la programación, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades cada día. Me encanta resolver problemas y trabajar en proyectos que me desafíen.</p>
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+<h2 align="left">Contáctame</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/catalina-rosales-12b6a7155/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+  </a>
+  <br>
+  <a href="mailto:tu_correo@example.com">
+    📧 rosales.cata@gmail.com
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/rataxikita/rataxikita/output/snake.svg" alt="Snake animation" />
