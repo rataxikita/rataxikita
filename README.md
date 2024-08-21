@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+
 </div>
 
 <h2 align="left">Contáctame</h2>
@@ -29,5 +29,3 @@
     📧 rosales.cata@gmail.com
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/rataxikita/rataxikita/output/snake.svg" alt="Snake animation" />
