@@ -4,7 +4,7 @@
 
 <h2 align="left">Acerca de mí</h2>
 
-<p align="left">Soy una estudiante apasionada por la programación, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades cada día. Me encanta resolver problemas y trabajar en proyectos que me desafíen.</p>
+<p align="left">Estudiante de progrmación, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades cada día. Me encanta resolver problemas y trabajar en proyectos que me desafíen.</p>
 
 <h2 align="left">Tecnologías y Herramientas</h2>
 
