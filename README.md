@@ -2,7 +2,7 @@
 
 # 👨‍💻 ¡Hola! Soy rataxikita
 
-### Estudiante de Analista Programador | Desarrollador Full Stack en formación
+### Estudiante de Analista Programador | Full Stack Developer en construcción 🚧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-rosales-gonzalez/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rataxikita)
@@ -20,13 +20,15 @@
 const rataxikita = {
     rol: "Estudiante de Analista Programador",
     ubicacion: "Chile 🇨🇱",
-    objetivos: ["Conseguir mi primera oportunidad laboral", "Mejorar mis skills diariamente"],
+    objetivos: ["Primera oportunidad laboral", "Mejorar skills diariamente"],
     intereses: ["Desarrollo Web", "Automatización con IA", "Clean Code"],
-    disponibilidad: "Abierto a oportunidades 💼"
+    disponibilidad: "Abierto a oportunidades 💼",
+    superPoder: "Convertir café en código",
+    debilidad: "El ; de JavaScript que nunca sé si va o no va"
 };
 ```
 
-Soy un estudiante apasionado por la programación que disfruta construyendo soluciones innovadoras. Me encanta enfrentar desafíos, aprender nuevas tecnologías y trabajar en proyectos que realmente importen.
+Estudiante apasionado por la programación que disfruta construyendo soluciones innovadoras. Me encanta enfrentar desafíos técnicos y aprender de cada error (y créeme, he aprendido *mucho*).
 
 ## 💻 Tech Stack
 
@@ -34,21 +36,23 @@ Soy un estudiante apasionado por la programación que disfruta construyendo solu
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### Herramientas & Otros
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 </div>
 
@@ -58,12 +62,12 @@ Soy un estudiante apasionado por la programación que disfruta construyendo solu
 <tr>
 <td width="50%">
 
-### 🤖 Crewly
-Sistema de agentes de IA colaborativos
+### 📅 Crewly
+Asistente inteligente de horarios laborales
 
-**Tech:** Python, CrewAI
+**Tech:** Python, FastAPI, Google APIs, OAuth 2.0
 
-Implementación de agentes inteligentes que trabajan en equipo para resolver tareas complejas de forma automatizada.
+Automatiza la gestión de horarios extrayendo información de emails de Orquest y sincronizándola con Google Calendar. Genera reportes detallados con cálculo automático de remuneraciones y bonos.
 
 🔗 [Ver repositorio →](https://github.com/rataxikita/crewly)
 
@@ -71,11 +75,11 @@ Implementación de agentes inteligentes que trabajan en equipo para resolver tar
 <td width="50%">
 
 ### ⏱️ ClearityTimer
-Gestión de tiempo y productividad
+Pomodoro gamificado con personajes Sanrio
 
-**Tech:** React, TypeScript, Vite
+**Tech:** React 19, Vite, JavaScript
 
-Aplicación moderna para mejorar la productividad con técnica Pomodoro, seguimiento de tareas y estadísticas detalladas.
+Timer Pomodoro con sistema de gamificación donde coleccionas personajes adorables, ganas puntos por completar sesiones y visualizas tu progreso con estadísticas y rankings.
 
 🔗 [Ver repositorio →](https://github.com/rataxikita/ClearityTimer)
 
@@ -100,10 +104,11 @@ Aplicación moderna para mejorar la productividad con técnica Pomodoro, seguimi
 
 ## 🎓 Actualmente aprendiendo
 
-- 🔥 Profundizando en **React** y **TypeScript**
-- 🚀 Explorando **Spring Boot** y arquitecturas backend
-- 🤖 Experimentando con **IA** y automatización con **Python**
+- 🔥 Profundizando en **React** y desarrollo frontend moderno
+- 🚀 Explorando **FastAPI** y **Spring Boot** para arquitecturas backend
+- 🔌 Integrando **Google APIs** (Gmail, Calendar) y servicios externos
 - 📚 Mejorando mis habilidades en **algoritmos** y **estructuras de datos**
+- 🔍 Desarrollando mi sexto sentido para detectar bugs antes del code review
 
 ## 💼 Busco oportunidades
 
@@ -115,12 +120,25 @@ Estoy buscando activamente mi primera oportunidad laboral como desarrollador. Si
 
 <div align="center">
 
-### 💭 Quote del día
+### 😄 Chiste de dev del día
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
-### ⭐️ Si te gustan mis proyectos, considera darles una estrella!
+<details>
+<summary>🎲 Más humor de programador (porque uno nunca es suficiente)</summary>
 
-**"El código es poesía, y cada proyecto es una nueva historia."**
+<br>
+
+**P:** ¿Cómo le explicas a tu familia a qué te dedicas?
+**R:** "Arreglo computadores" (es más fácil que explicar qué es un framework)
+
+</details>
+
+**"Código que funciona > Código perfecto"**
+*(Pero siempre aspiro a ambos... eventualmente)*
+
+---
+
+**Estado actual:** `git commit -m "fixed bug"` *// Spoiler: no lo arreglé*
 
 </div>
