@@ -109,7 +109,7 @@ Aplicación moderna para mejorar la productividad con técnica Pomodoro, seguimi
 
 Estoy buscando activamente mi primera oportunidad laboral como desarrollador. Si tienes un proyecto interesante o una posición disponible, ¡me encantaría conversar!
 
-✉️ **Contáctame:** [tu_email@ejemplo.com](mailto:TU_EMAIL)
+✉️ **Contáctame:** [rosales.cata@gmail.com](mailto:rosales.cata@gmail.com)
 
 ---
 
